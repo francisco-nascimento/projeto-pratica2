@@ -1,27 +1,33 @@
 # Projeto e Pratica 2
-Repositório para a disciplina de Projeto e Prática 2 - IFPE
-
+<h3>Repositório para a disciplina de Projeto e Prática 2 - IFPE</h3>
+<h5>
 Professor: Francisco do Nascimento
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
+</h5>
 
-Competências:
-Aplicar os conhecimentos adquiridos nos componentes curriculares do 3º período. 
-Integrar os conteúdos abordados nos 1º, 2º e 3º período, no contexto geral do curso e em sua vida profissional. 
-Elaborar projetos e relatórios integrados aos conteúdos abordados ao longo do curso.
+<h4>Competências:</h4>
+<ul>
+<li>Aplicar os conhecimentos adquiridos nos componentes curriculares do 3º período. </li>
+<li>Integrar os conteúdos abordados nos 1º, 2º e 3º período, no contexto geral do curso e em sua vida profissional. </li>
+<li>Elaborar projetos e relatórios integrados aos conteúdos abordados ao longo do curso.</li>
+</ul>
 
-Disciplinas co-relacionadas: 
-Engenharia de Software
-Interação Homem-Computador
-Desenvolvimento Web II
-Implantação 
+<h4>Disciplinas co-relacionadas: </h4>
+<ul>
+<li>Engenharia de Software</li>
+<li>Interação Homem-Computador</li>
+<li>Desenvolvimento Web II</li>
+<li>Implantação </li>
+</ul>
 
-Horário: 
+<h4>Horário: </h4>
 Terça: 15:00 - 17:30
 Sexta: 15:00 - 16:45
 
-Local: Laborátório 3 (Sala 209)
+<h4>Local: Laborátório 3 (Sala 209)</h4>
 
-Aula 1: Apresentação
-Importante: Alunos, preencham esse formulário bit.ly/ifpe-registroalunos 
+<h2>Aula 1: Apresentação</h2>
+<p>Importante: Alunos, preencham esse formulário bit.ly/ifpe-registroalunos </p>
+Sildes: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>PDF</a>
 
-Aula 2: Prática de revisão
+<h2>Aula 2: Prática de revisão</h2>
