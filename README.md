@@ -1,7 +1,7 @@
 # Projeto e Pratica 2
 <h3>Repositório para a disciplina de Projeto e Prática 2 - IFPE</h3>
 <h5>
-Professor: Francisco do Nascimento
+Professor: Francisco do Nascimento <BR />
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
 </h5>
 
@@ -20,14 +20,14 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 <li>Implantação </li>
 </ul>
 
-<h4>Horário: </h4>
-Terça: 15:00 - 17:30
+<h5>Horário: </h5>
+Terça: 15:00 - 17:30 <BR />
 Sexta: 15:00 - 16:45
 
-<h4>Local: Laborátório 3 (Sala 209)</h4>
+<h5>Local: Laborátório 3 (Sala 209)</h5>
 
 <h2>Aula 1: Apresentação</h2>
-<p>Importante: Alunos, preencham esse formulário bit.ly/ifpe-registroalunos </p>
+<p>Importante: Alunos, preencham esse formulário <a href='bit.ly/ifpe-registroalunos'>Registro</a> </p>
 Sildes: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>PDF</a>
 
 <h2>Aula 2: Prática de revisão</h2>
