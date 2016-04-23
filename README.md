@@ -1,7 +1,6 @@
-# Projeto e Pratica 2
+# Projeto e Prática 2
 <h3>Repositório para a disciplina de Projeto e Prática 2 - IFPE</h3>
-<h5>
-Professor: Francisco do Nascimento <BR />
+<h5>Professor: Francisco do Nascimento <BR />
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
 </h5>
 
