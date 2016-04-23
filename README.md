@@ -24,4 +24,4 @@ Local: Laborátório 3 (Sala 209)
 Aula 1: Apresentação
 Importante: Alunos, preencham esse formulário bit.ly/ifpe-registroalunos 
 
-
+Aula 2: Prática de revisão
