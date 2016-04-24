@@ -14,9 +14,9 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 <h4>Disciplinas co-relacionadas: </h4>
 <ul>
 <li>Engenharia de Software</li>
-<li>Interação Homem-Computador</li>
+<li>Interação Humano-Computador</li>
 <li>Desenvolvimento Web II</li>
-<li>Implantação </li>
+<li>Implantação e Administração de Sistemas Web</li>
 </ul>
 
 <h5>Horário: </h5>
@@ -26,7 +26,7 @@ Sexta: 15:00 - 16:45
 <h5>Local: Laborátório 3 (Sala 209)</h5>
 
 <h2>Aula 1: Apresentação</h2>
-<p>Importante: Alunos, preencham esse formulário <a href='bit.ly/ifpe-registroalunos'>Registro</a> </p>
+<p>Importante: Alunos, preencham esse formulário <a href='http://bit.ly/ifpe-registroalunos'>Registro</a> </p>
 Sildes: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>PDF</a>
 
-<h2>Aula 2: Prática de revisão</h2>
+<h2>Aula 2: Prática 0: Revisão</h2>
