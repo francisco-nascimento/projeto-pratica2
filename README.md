@@ -29,4 +29,4 @@ Sexta: 15:00 - 16:45
 <p>Importante: Alunos, preencham esse formulário <a href='http://bit.ly/ifpe-registroalunos'>Registro</a> </p>
 Sildes: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>PDF</a>
 
-<h2>Aula 2: Prática 0: Revisão</h2>
+<h2>Aula 2: Revisão</h2>
