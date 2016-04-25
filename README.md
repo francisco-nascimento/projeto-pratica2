@@ -1,4 +1,10 @@
 # Projeto e Prática 2
+<style>
+  .destaque{
+      font-color : #F00;
+  }
+</style>
+
 <h3>Repositório para a disciplina de Projeto e Prática 2 - IFPE</h3>
 <h5>Professor: Francisco do Nascimento <BR />
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
@@ -30,3 +36,6 @@ Sexta: 15:00 - 16:45
 Sildes: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>PDF</a>
 
 <h2>Aula 2: Revisão</h2>
+<p class='destaque'>Atividade para a próxima aula: <a href='https://www.dropbox.com/s/eyl53kd590e9jlp/PP02-Atividade02.pdf?dl=0' target='_blank'>Prática 01</a></p>
+
+<h2>
