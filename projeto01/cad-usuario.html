@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Exemplo da Aula 04</title>
+	<link rel="stylesheet" type="text/css" href="form-div.css">
+</head>
+
+<body>
+
+	<form method="post" action="" enctype="multipart/form-data">
+	<div id="principal">
+	 <div id="header">
+	    Registro de Profissionais
+	 </div>
+	 <div id="conteudo">
+	 	<div id="coluna1">
+		
+		<label for="nome">Informe o seu nome completo: </label>
+		<input type="text" name="nome" id="nome" value="" required placeholder="Digite o nome" size="30" maxlength="30">
+		
+		<p></p>
+		Informe seu login: <br>
+		<input type="text" name="login" required>
+
+		<p></p>
+		
+		Informe sua senha: <br>
+		<input type="password" name="senha" maxlength="15">
+
+		<p></p>
+		Informe sua área de atuação: <br>
+		<input type="checkbox" name="area" value="programacao"> Programação <br>
+		<input type="checkbox" name="area" value="analise"> Análise de Sistemas <br>
+		<input type="checkbox" name="area" value="designer"> Design <br>
+		<br>
+ 		</div>
+		<div id="coluna2">
+		Informe o estado: <br>
+		<select name="lista">
+			<option value="0">Selecione um estado</option>		
+			<option value="PE"> Pernambuco </option>
+			<option value="CE"> Ceará </option>
+			<option value="BA"> Bahia </option>
+			<option value="RN"> Rio Grande do Norte </option>
+		</select>
+		
+		<p>
+		Selecione os idiomas: <br>
+		<select name="lista" multiple="multiple">
+			<option value="PT"> Português </option>
+			<option value="EN"> Inglês </option>
+			<option value="ES"> Espanhol </option>
+			<option value="FR"> Francês </option>
+		</select>
+		
+		<p>
+		Observações: <br>
+		<textarea rows="5" cols="40" name="areaTexto" placeholder="Texto opcional"></textarea>
+		
+		</div>
+		
+		</div>
+		<div id="rodape">
+			<input type="reset" value="Limpar" name="limpar"> &nbsp;
+			<input type="submit" value="Enviar" name="enviar">			
+		</div>		
+	</div>
+	</form>
+
+</body>
+</html>

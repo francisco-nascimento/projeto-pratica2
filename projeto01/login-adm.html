@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Login - Portal de Programadores</title>
+	<link rel="stylesheet" type="text/css" href="form-oficina.css">
+
+	<script type="text/javascript">
+	function enviarDados(){
+		if (document.form1.login.value == "" || document.form1.senha.value == ""){
+			alert('Campos obrigatórios não preenchidos!');
+			document.form1.login.focus();
+			return false;
+		}
+		alert('Login efetuado com sucesso!');
+	}
+
+	function enviarDados2(){
+		if (document.form1.login.value == ""){
+			alert('Login deve ser informado');
+			document.form1.login.focus();
+			return false;			
+		}
+		if (document.form1.senha.value == ""){
+			alert('Senha deve ser informada');
+			document.form1.senha.focus();
+			return false;			
+		}
+		alert('Login efetuado com sucesso!');
+	}
+	</script>
+</head>
+
+<body>
+
+	
+		<div id="principal" align="center">
+		 
+	 		<div id="header">
+	 			Portal de Programadores - Administração
+	 		</div>
+	 		
+	 		<div id="conteudo">
+	 			<div id="coluna1">
+	 				<img src="imagem01.jpg" height="250" width="250" id="img-oficina">
+	 			</div>
+	 			<div id="coluna2">
+	 				<form method="post" action="" name="form1" class="formLoginSenha" onsubmit="return enviarDados();">
+	 					<br>
+	 					<span class="labelCampos"> Login:</span> <br>
+	 					<input type="text" id="txt_login" name="login" class="camposTexto" /> <br>
+	 					<span class="labelCampos"> Senha:</span> <BR>
+	 					<input type="password" id="txt_senha" name="senha" class="camposTexto">
+	 					<br><br>
+	 					<input type="submit" id="btn_logar" value="Logar">
+
+	 				</form>
+	 			</div>
+
+	 		</div>
+	 		<div id="rodape">
+	 			Dúvidas? <a href="">administracao@biudatorre.com.br</a>
+	 		</div>
+	 	</div>
+</body>
+</html>
+
+
+
