@@ -36,5 +36,5 @@ Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>
 
 <H2>Aula 4: Ferramentas de Controle de Versão - Git </h2>
 Slides: <a href="https://www.dropbox.com/s/4cizlzx8aeq6y30/PP2-Aula02.pdf?dl=0" target="_blank">PDF</a><br/>
-Atividade: <a href="">Prática 02</a>
+Atividade: <a href="https://www.dropbox.com/s/47zkg705g0qdobl/PP02-Atividade03.pdf?dl=0">Prática 02</a>
 
