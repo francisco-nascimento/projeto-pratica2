@@ -35,8 +35,8 @@ Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>
 <h2>Aula 3: Seminários - Análise de um sistema de vendas online</h2>
 
 <H2>Aula 4: Ferramentas de Controle de Versão - Git </h2>
-<a href="https://www.dropbox.com/s/4cizlzx8aeq6y30/PP2-Aula02.pdf?dl=0" target="_blank">Slides</a>&nbsp;
-<a href="https://www.dropbox.com/s/47zkg705g0qdobl/PP02-Atividade03.pdf?dl=0">Atividade 03</a>&nbsp;
+<a href="https://www.dropbox.com/s/4cizlzx8aeq6y30/PP2-Aula02.pdf?dl=0" target="_blank">Slides</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://www.dropbox.com/s/47zkg705g0qdobl/PP02-Atividade03.pdf?dl=0">Atividade 03</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.dropbox.com/s/bv65nn857rsowwi/git-tutorial.pdf?dl=0">Tutorial</a>
 
 <H2>Aula 5: Praticando Git + Login usando banco de dados </h2>
