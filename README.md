@@ -38,9 +38,9 @@ Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>
 <a href="https://www.dropbox.com/s/4cizlzx8aeq6y30/PP2-Aula02.pdf?dl=0" target="_blank">Slides</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.dropbox.com/s/47zkg705g0qdobl/PP02-Atividade03.pdf?dl=0">Atividade 03</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.dropbox.com/s/bv65nn857rsowwi/git-tutorial.pdf?dl=0">Tutorial</a> <BR />
-Links úteis: <br />
-<a hre="https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git" taget="_blank">Página do Git (Instalação no Linux, Windows ou Mac)</a> <br />
-<a href="http://www.comandoslinux.com/" taget="_blank">Comandos Linux</a><br />
-
+<i>Links úteis: <br />
+<a href="https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git" target="_blank">Página do Git (Instalação no Linux, Windows ou Mac)</a> <br />
+<a href="http://www.comandoslinux.com/" target="_blank">Comandos Linux</a><br />
+</i>
 <H2>Aula 5: Praticando Git + Login usando banco de dados </h2>
 <a href="https://www.dropbox.com/s/a8ehownh5r57ftu/PP02-Atividade04.pdf?dl=0">Atividade 04</a>
