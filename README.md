@@ -25,16 +25,16 @@ Sexta: 15:00 - 16:45
 
 <h5>Local: Laborátório 3 (Sala 209)</h5>
 
-<h2>Aula 1: Apresentação</h2>
+<h3>Aula 1: Apresentação</h3>
 <p>Importante: Alunos, preencham esse formulário <a href='http://bit.ly/ifpe-registroalunos'>Registro</a> </p>
 Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>PDF</a>
 
-<h2>Aula 2: Revisão</h2>
+<h3>Aula 2: Revisão</h3>
 <p class='destaque'>Atividade para a próxima aula: <a href='https://www.dropbox.com/s/eyl53kd590e9jlp/PP02-Atividade02.pdf?dl=0' target='_blank'>Atividade 02</a></p>
 
-<h2>Aula 3: Seminários - Análise de um sistema de vendas online</h2>
+<h3>Aula 3: Seminários - Análise de um sistema de vendas online</h3>
 
-<H2>Aula 4: Ferramentas de Controle de Versão - Git </h2>
+<H3>Aula 4: Ferramentas de Controle de Versão - Git </h3>
 <a href="https://www.dropbox.com/s/4cizlzx8aeq6y30/PP2-Aula02.pdf?dl=0" target="_blank">Slides</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.dropbox.com/s/47zkg705g0qdobl/PP02-Atividade03.pdf?dl=0">Atividade 03</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.dropbox.com/s/bv65nn857rsowwi/git-tutorial.pdf?dl=0">Tutorial</a> <BR />
@@ -42,5 +42,8 @@ Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>
 <a href="https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git" target="_blank">Página do Git (Instalação no Linux, Windows ou Mac)</a> <br />
 <a href="http://www.comandoslinux.com/" target="_blank">Comandos Linux</a><br />
 </i>
-<H2>Aula 5: Praticando Git + Login usando banco de dados </h2>
+<H3>Aula 5: Praticando Git + Login usando banco de dados </h3>
 <a href="https://www.dropbox.com/s/a8ehownh5r57ftu/PP02-Atividade04.pdf?dl=0">Atividade 04</a>
+
+<H3>Aula 6: Praticando Java Web: Módulo de segurança - Parte 1 </h3>
+<a href="https://www.dropbox.com/s/n0zgit9bjpsvkmi/PP02-Atividade05.pdf?dl=0">Atividade 05</a>
