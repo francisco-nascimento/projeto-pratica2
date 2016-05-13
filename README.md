@@ -47,3 +47,11 @@ Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>
 
 <H3>Aula 6: Praticando Java Web: Módulo de segurança - Parte 1 </h3>
 <a href="https://www.dropbox.com/s/n0zgit9bjpsvkmi/PP02-Atividade05.pdf?dl=0">Atividade 05</a>
+
+<H3>Aula 7: Acompanhamento dos repositórios criados</h3>
+<ul>
+<li>Os repositórios do Github precisam estar atualizados com as atividades 04 e 05 finalizadas.</li>
+<li>As atividades podem ter sido feitas em grupo, porém cada aluno precisa ter uma conta no GitHub.</li>
+<li>Aos que não fizeram ainda, enviar para o email francisco.junior@jaboatao.ifpe.edu.br o link do repositório.</li>
+<li><b>Prazo para deixar o repositório totalmente atualizado: 23:00 do dia 16/05/16</b></li>
+</ul>
