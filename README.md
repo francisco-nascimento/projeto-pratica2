@@ -55,3 +55,7 @@ Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>
 <li>Aos que não fizeram ainda, enviar para o email francisco.junior@jaboatao.ifpe.edu.br o link do repositório.</li>
 <li><b>Prazo para deixar o repositório totalmente atualizado: 23:00 do dia 16/05/16</b></li>
 </ul>
+
+<h3>Aula 8: Praticando Git no trabalho distribuído </h3>
+<a href="https://www.dropbox.com/s/e118mly64r3vkkd/PP2-Aula03.pdf?dl=0">Slides 3</a>&nbsp;&nbsp;
+<a href="https://www.dropbox.com/s/ic29mw4zbaygd1p/PP02-Atividade06.pdf?dl=0">Atividade 06</a>
