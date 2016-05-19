@@ -59,3 +59,7 @@ Slides: <a href='https://www.dropbox.com/s/5za1339vexugbbn/PP2-Aula01.pdf?dl=0'>
 <h3>Aula 8: Praticando Git no trabalho distribuído </h3>
 <a href="https://www.dropbox.com/s/e118mly64r3vkkd/PP2-Aula03.pdf?dl=0">Slides 3</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.dropbox.com/s/ic29mw4zbaygd1p/PP02-Atividade06.pdf?dl=0">Atividade 06</a>
+
+<h3>Aula 9: Teste unitários com JUnit</h3>
+Material de apoio: <a href="http://www.devmedia.com.br/junit-implementando-testes-unitarios-em-java-parte-i/1432">Link 1</a>&nbsp;|&nbsp;<a href="http://www.java.marcric.com/cursos/java-01/pages/008-aula04junit1.html">Link2</a><br />
+<a href="">Slides</a>&nbsp;|&nbsp;<a href="">Atividade 07</a>
