@@ -70,3 +70,6 @@ Material de apoio: <a href="http://www.devmedia.com.br/junit-implementando-teste
 
 <h5>Material de apoio</h5>
 <a href="passos-git.md">Passo a passo - Git</a>
+
+<h3>Aula 11: Test-driven Development - TDD (Parte 2)</h3>
+<a href="pp02-atividade08.md">Atividade 08</a>
