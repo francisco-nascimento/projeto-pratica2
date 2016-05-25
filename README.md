@@ -69,4 +69,4 @@ Material de apoio: <a href="http://www.devmedia.com.br/junit-implementando-teste
 <a href="https://www.dropbox.com/s/tv08cj55hamor53/PP02-Atividade07.pdf?dl=0">Atividade 07</a>
 
 <h5>Material de apoio</h5>
-<a href="passosgit.md">Passo a passo - Git</a>
+<a href="passos-git.md">Passo a passo - Git</a>
