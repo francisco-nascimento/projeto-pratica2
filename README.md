@@ -67,3 +67,6 @@ Material de apoio: <a href="http://www.devmedia.com.br/junit-implementando-teste
 <h3>Aula 10: Test-driven Development - TDD</h3>
 <a href="https://www.dropbox.com/s/sqj3kqmlqomcl1y/PP2-Aula05-TDD.pdf?dl=0">Slides</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://www.dropbox.com/s/tv08cj55hamor53/PP02-Atividade07.pdf?dl=0">Atividade 07</a>
+
+<h5>Material de apoio</h5>
+<a href="passosgit.md">Passo a passo - Git</a>
