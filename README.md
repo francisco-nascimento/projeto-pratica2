@@ -82,4 +82,5 @@ Material de apoio: <a href="http://webdevacademy.com.br/">Webdev Academy</a><br 
 <li>Pingendo: Ferramenta para criação de protótipos de sites usando Bootstrap - <a href="http://pingendo.com/">http://pingendo.com/</a><br />
 Videos: <a href="https://www.youtube.com/watch?v=RjwelUnP1yw">Video 1</a> &nbsp;|&nbsp;<a href="https://www.youtube.com/watch?v=RjwelUnP1yw&spfreload=10">Video 2</a>
 </ul>
-##### <a href="pp02-atividade09.md">Atividade 09 - Início do projeto</a> #####
+##### <a href="pp02-atividade09.md">Atividade 09 - Início do projeto</a> - Entrega: até as 14:55 do dia 07/06/16 #####
+#####
