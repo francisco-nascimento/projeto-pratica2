@@ -73,3 +73,13 @@ Material de apoio: <a href="http://www.devmedia.com.br/junit-implementando-teste
 
 <h3>Aula 11: Test-driven Development - TDD (Parte 2)</h3>
 <a href="pp02-atividade08.md">Atividade 08</a>
+
+<h3>Aula 12: Bootstrap & Pingendo</h3>
+<ul>
+<li>Bootstrap: <br />
+Site oficial do Bootstrap: <a href="http://getbootstrap.com/" target="_blank">http://getbootstrap.com/</a><br/>
+Material de apoio: <a href="http://webdevacademy.com.br/">Webdev Academy</a><br />
+<li>Pingendo: Ferramenta para criação de protótipos de sites usando Bootstrap - <a href="http://pingendo.com/">http://pingendo.com/</a><br />
+Videos: <a href="https://www.youtube.com/watch?v=RjwelUnP1yw">Video 1</a> &nbsp;|&nbsp;<a href="https://www.youtube.com/watch?v=RjwelUnP1yw&spfreload=10">Video 2</a>
+</ul>
+##### <a href="pp02-atividade09.md">Atividade 09 - Início do projeto</a> #####
