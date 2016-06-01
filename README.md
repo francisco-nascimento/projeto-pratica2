@@ -84,3 +84,12 @@ Videos: <a href="https://www.youtube.com/watch?v=RjwelUnP1yw">Video 1</a> &nbsp;
 </ul>
 ##### <a href="pp02-atividade09.md">Atividade 09 - Início do projeto</a> - Entrega: até as 14:55 do dia 07/06/16 #####
 #####
+
+#### EQUIPES ####
+EQUIPE 1 | EQUIPE 2 | EQUIPE 3
+-------- | -------- | --------
+*Erick* | *Rodrigo* | *Mikhael*
+Ala | Alisson | Lucas
+Carolynne | Carolina Viana | Victor
+  | Luiz Zumba |  
+  
