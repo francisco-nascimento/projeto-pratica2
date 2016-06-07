@@ -9,8 +9,8 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 DATA | ... 
 ----- | -------------
 07/06/16 | Definição dos temas dos projetos <br /> <a href="pp02-atividade10.md">Atividade 10 - ÚLTIMA ATIVIDADE DA 1A. UNIDADE</a> 
-10/06/16 | Acompanhamento das atividades
-14/06/16 | Acompanhamento das atividades
+10/06/16 | Acompanhamento da atividade
+14/06/16 | Acompanhamento da atividade
 17/06/16 | *Avaliação:*  Serão feitas perguntas sobre as atividades realizadas, especialmente sobre a *Atividade 10*
 21/06/16 | Recuperação da 1a. Unidade :: Atividade extra
 
