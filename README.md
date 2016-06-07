@@ -28,7 +28,12 @@ Carolynne | Carolina Viana | Victor
 Site oficial do Bootstrap: <a href="http://getbootstrap.com/" target="_blank">http://getbootstrap.com/</a><br/>
 Material de apoio: <a href="http://webdevacademy.com.br/">Webdev Academy</a><br />
 <li>Pingendo: Ferramenta para criação de protótipos de sites usando Bootstrap - <a href="http://pingendo.com/">http://pingendo.com/</a><br />
-Videos: <a href="https://www.youtube.com/watch?v=RjwelUnP1yw">Video 1</a> &nbsp;|&nbsp;<a href="https://www.youtube.com/watch?v=RjwelUnP1yw&spfreload=10">Video 2</a>
+Videos: <a href="https://www.youtube.com/watch?v=RjwelUnP1yw">Video 1</a> &nbsp;|&nbsp;<a href="https://www.youtube.com/watch?v=RjwelUnP1yw&spfreload=10">Video 2</a></li>
+<li>Bootsnipp: Site para acelerar desenvolvimento web - <a href="http://bootsnipp.com/">http://bootsnipp.com/</a>
+<br /> Gerador de formulário : <a href="http://bootsnipp.com/forms">http://bootsnipp.com/forms</a>
+<br /> Configuração de botões : <a href="http://bootsnipp.com/buttons">http://bootsnipp.com/buttons</a>
+ <br />Centenas de componentes prontos.
+</li>
 </ul>
 ##### <a href="pp02-atividade09.md">Atividade 09 - Início do projeto</a> - Entrega: até as 14:55 do dia 07/06/16 #####
 #####
