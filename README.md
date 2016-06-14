@@ -4,6 +4,12 @@
 E-mail: francisco.junior@jaboatao.ifpe.edu.br
 </h5>
 
+##### Ordem da avaliação dos projetos - I Unidade (Sexta: 17/06/16)
+Hora | Equipe 
+----- | -------------
+15:15 | Luiz Victor, Maria Carolina, Rodrigo
+15:45 | Alisson, Lucas, Mikhael, Victor
+16:15 | Ala, Carolynne, Erick
 
 ##### Agenda das próximas aulas
 DATA | ... 
@@ -18,9 +24,9 @@ DATA | ...
 EQUIPE 1 | EQUIPE 2 | EQUIPE 3
 -------- | -------- | --------
 *Erick* | *Rodrigo* | *Mikhael*
-Ala | Alisson | Lucas
+Ala | Luiz Zumba | Lucas
 Carolynne | Carolina Viana | Victor
-  | Luiz Zumba |  
+  |  |  Alisson
   
 <h3>Aula 12: Bootstrap & Pingendo</h3>
 <ul>
