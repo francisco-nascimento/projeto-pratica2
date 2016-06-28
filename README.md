@@ -9,6 +9,7 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 <h3>UNIDADE 2</h3>
 
 SCRUM
+* <img src="Scrum-Process1.png">
 * https://www.youtube.com/watch?v=xa-C0No2Uic
 * https://www.youtube.com/watch?v=XfvQWnRgxG0
 
