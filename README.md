@@ -9,10 +9,11 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 <h3>UNIDADE 2</h3>
 
 SCRUM
-https://www.youtube.com/watch?v=xa-C0No2Uic
-https://www.youtube.com/watch?v=XfvQWnRgxG0
+* https://www.youtube.com/watch?v=xa-C0No2Uic
+* https://www.youtube.com/watch?v=XfvQWnRgxG0
 
-HISTÓRIAS DO USUÁRIO
+HISTÓRIAS DO USUÁRIO: 
+* http://blog.myscrumhalf.com/2011/10/user-stories-o-que-sao-como-usar/ 
 
 
 #### ATIVIDADES 
@@ -40,4 +41,7 @@ ENTREGAS (tudo no GitHub)
 <li>Código-fonte da aplicação</li>
 </ol>
 
-
+##### NOTA DA UNIDADE 2: ENTREGAS + PARTICIPAÇÃO + APRESENTAÇÃO
+ * Entregas: Máximo 4,0 pontos (entregou tudo no prazo, garante os quatro pontos)
+ * Participação: Máximo 4,0 pontos (esforço e produtividade)
+ * Apresentação: Máximo 2,0 pontos (média da nota dos demais professores)
