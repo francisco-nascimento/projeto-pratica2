@@ -8,11 +8,15 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 
 <h3>UNIDADE 2</h3>
 
-
 #### Aula 01/07/16
-* Objetivo: Cada grupo vai desenvolver o Product Backlog para cada um dos módulos (Cadastro, Atendimento, Faturamento)
+1) Definir o product backlog
+* Cada grupo vai desenvolver o Product Backlog para cada um dos módulos (Cadastro, Atendimento, Faturamento)
 * Finalizar durante a aula: Uma planilha no seguinte modelo <br/>
-<img src="backlog-exemplo.png" width="50%" height="50%">
+<img src="backlog-exemplo.png" width="50%" height="50%"><br />
+
+2) Escrever as histórias do usuário definidas no Product Backlog
+* Modelo: <a href="HistoriasUsuario.doc">História do usuário de exemplo</a>
+* Entrega: próxima aula (05/07/16)
 
 -----
 
