@@ -10,7 +10,7 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 
 
 #### Aula 01/07/16
-* Objetivo: Cada grupo vai desenvolver parte do Product Backlog para cada um dos módulos (Cadastro, Atendimento, Faturamento)
+* Objetivo: Cada grupo vai desenvolver o Product Backlog para cada um dos módulos (Cadastro, Atendimento, Faturamento)
 * Finalizar durante a aula: Uma planilha no seguinte modelo <br/>
 <img src="backlog-exemplo.png" width="50%" height="50%">
 
