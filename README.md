@@ -9,9 +9,10 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 <h3>UNIDADE 2</h3>
 
 SCRUM
-* <img src="Scrum-Process1.png">
+<img src="Scrum-Process1.png">
 * https://www.youtube.com/watch?v=xa-C0No2Uic
 * https://www.youtube.com/watch?v=XfvQWnRgxG0
+* Slide: <a href="https://www.dropbox.com/s/g0as8obk1sh9h6q/PP2-Aula06-Scrum.pdf?dl=0">PDF</a>
 
 HISTÓRIAS DO USUÁRIO: 
 * http://blog.myscrumhalf.com/2011/10/user-stories-o-que-sao-como-usar/ 
