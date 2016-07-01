@@ -8,16 +8,6 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 
 <h3>UNIDADE 2</h3>
 
-#### Aula 28/06/16
-SCRUM
-<img src="Scrum-Process1.png">
-* https://www.youtube.com/watch?v=xa-C0No2Uic
-* https://www.youtube.com/watch?v=XfvQWnRgxG0
-* Slide: <a href="https://www.dropbox.com/s/g0as8obk1sh9h6q/PP2-Aula06-Scrum.pdf?dl=0">PDF</a>
-
-HISTÓRIAS DO USUÁRIO: 
-* http://blog.myscrumhalf.com/2011/10/user-stories-o-que-sao-como-usar/ 
----------
 
 #### Aula 01/07/16
 * Objetivo: Cada grupo vai desenvolver parte do Product Backlog para cada um dos módulos (Cadastro, Atendimento, Faturamento)
@@ -25,6 +15,18 @@ HISTÓRIAS DO USUÁRIO:
 <img src="backlog-exemplo.png" width="50%" height="50%">
 
 -----
+
+#### Aula 28/06/16
+SCRUM
+<img src="Scrum-Process1.png"  width="75%" height="75%">
+* https://www.youtube.com/watch?v=xa-C0No2Uic
+* https://www.youtube.com/watch?v=XfvQWnRgxG0
+* Slide: <a href="https://www.dropbox.com/s/g0as8obk1sh9h6q/PP2-Aula06-Scrum.pdf?dl=0">PDF</a>
+
+HISTÓRIAS DO USUÁRIO: 
+* http://blog.myscrumhalf.com/2011/10/user-stories-o-que-sao-como-usar/ 
+
+---------
 #### ATIVIDADES 
 
 . | Descrição | Data de finalização
