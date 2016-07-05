@@ -18,6 +18,9 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 * Modelo: <a href="HistoriasUsuario.doc">História do usuário de exemplo</a>
 * Entrega: próxima aula (05/07/16)
 
+#### Aula 05/07/16
+Product Backlog: <a href="https://docs.google.com/a/jaboatao.ifpe.edu.br/spreadsheets/d/1mT06z1S-aei-hQu_1uGNm1aIOUzECAcC6GJ-lC4Uiwk/edit?usp=sharing">Planilha</a><br />
+Atividade: Cada entregar 5 histórias do usuário com prioridade ALTA.
 -----
 
 #### Aula 28/06/16
@@ -35,15 +38,17 @@ HISTÓRIAS DO USUÁRIO:
 
 . | Descrição | Data de finalização
 --- | --------|-------
-1 | Definir equipe |
-2 | Definir cliente e tipo de sistema |
-3 | Realizar entrevistas com o cliente e coletar o máximo de histórias de usuário possível |
-4 | Definir as prioridades de cada história de usuário |
-5 | Dividir cada história de usuário em tarefas |
-6 | Definir as prioridades das tarefas |
-7 | Planejar as 9 semanas de trabalho: de 12/07/16 a 10/09/16 |
-8 | Criar quadro Scrum  |
+1 | Definir equipe | 28/06/16
+2 | Definir cliente e tipo de sistema | 28/06/01
+3 | Realizar entrevistas com o cliente e coletar o máximo de histórias de usuário possível | 01/07/16
+4 | Definir as prioridades de cada história de usuário | 01/07/16
+5 | Dividir cada história de usuário em tarefas | 05/07/16
+6 | Definir as prioridades das tarefas | 05/07/16
+7 | Planejar as 9 semanas de trabalho: de 12/07/16 a 10/09/16 | 08/07/16
+8 | Criar quadro Scrum  | 08/07/16
 9 | Para cada iteração: <BR /> - Definir backlog  <BR /> - Implementar as tarefas <BR/> - Testar as tarefas <br />  - Testar o sistema <BR /> |
+10 | Avaliação do projeto | 09/09/16
+11 | Apresentação ao público | 13/09/16
    
 
 ENTREGAS (tudo no GitHub)
