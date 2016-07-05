@@ -8,6 +8,11 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 
 <h3>UNIDADE 2</h3>
 
+#### Aula 05/07/16
+Product Backlog: <a href="https://docs.google.com/a/jaboatao.ifpe.edu.br/spreadsheets/d/1mT06z1S-aei-hQu_1uGNm1aIOUzECAcC6GJ-lC4Uiwk/edit?usp=sharing">Planilha</a><br />
+Atividade: Cada grupo deve entregar pelo menos 6 histórias do usuário com prioridade ALTA.
+
+
 #### Aula 01/07/16
 1) Definir o product backlog
 * Cada grupo vai desenvolver o Product Backlog para cada um dos módulos (Cadastro, Atendimento, Faturamento)
@@ -18,9 +23,7 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 * Modelo: <a href="HistoriasUsuario.doc">História do usuário de exemplo</a>
 * Entrega: próxima aula (05/07/16)
 
-#### Aula 05/07/16
-Product Backlog: <a href="https://docs.google.com/a/jaboatao.ifpe.edu.br/spreadsheets/d/1mT06z1S-aei-hQu_1uGNm1aIOUzECAcC6GJ-lC4Uiwk/edit?usp=sharing">Planilha</a><br />
-Atividade: Cada entregar 5 histórias do usuário com prioridade ALTA.
+
 -----
 
 #### Aula 28/06/16
