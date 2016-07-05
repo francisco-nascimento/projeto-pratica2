@@ -11,6 +11,9 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 #### Aula 05/07/16
 Product Backlog: <a href="https://docs.google.com/spreadsheets/d/1mT06z1S-aei-hQu_1uGNm1aIOUzECAcC6GJ-lC4Uiwk/edit?usp=sharing">Planilha</a><br />
 Atividade: Cada grupo deve entregar pelo menos 6 histórias do usuário com prioridade ALTA e MEDIA.
+<br />
+História do Usuário #36 (Tela de Login): <a href="https://docs.google.com/document/d/1aP5cGHkk2McuS3XoZuT9A-J4aGn5G9NemwGb9HAH0r4/edit?usp=sharing">Visualizar</a>
+
 
 
 #### Aula 01/07/16
