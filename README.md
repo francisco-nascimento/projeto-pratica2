@@ -9,7 +9,7 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 <h3>UNIDADE 2</h3>
 
 #### Aula 05/07/16
-Product Backlog: <a href="https://docs.google.com/a/jaboatao.ifpe.edu.br/spreadsheets/d/1mT06z1S-aei-hQu_1uGNm1aIOUzECAcC6GJ-lC4Uiwk/edit?usp=sharing">Planilha</a><br />
+Product Backlog: <a href="https://docs.google.com/spreadsheets/d/1mT06z1S-aei-hQu_1uGNm1aIOUzECAcC6GJ-lC4Uiwk/edit?usp=sharing">Planilha</a><br />
 Atividade: Cada grupo deve entregar pelo menos 6 histórias do usuário com prioridade ALTA.
 
 
