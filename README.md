@@ -12,7 +12,7 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 1. Prototipação de Interface: 
    * Geral: Prototipação da página inicial
    * Cada grupo: escolher duas histórias de usuário e fazer o protótipo de interface 
-2. www.trello.com : 
+2. www.trello.com (<a href="https://www.youtube.com/watch?v=QY6cmKTqkHI">Video-aula</a>):
    * Cada aluno deve criar uma conta neste site
    * O líder do dia: criar um quadro, o time, criar 4 listas (Histórias, A fazer, Fazendo, Concluída) e dar acesso aos demais membros.
    * Cadastrar as histórias do usuário na lista do quadro
