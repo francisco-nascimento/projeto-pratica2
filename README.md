@@ -8,6 +8,16 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 
 <h3>UNIDADE 2</h3>
 
+#### Aula 08/07/16
+1. Prototipação de Interface: 
+   * Geral: Prototipação da página inicial
+   * Cada grupo: escolher duas histórias de usuário e fazer o protótipo de interface 
+2. www.trello.com : 
+   * Cada aluno deve criar uma conta neste site
+   * O líder do dia: criar um quadro, o time, criar 4 listas (Histórias, A fazer, Fazendo, Concluída) e dar acesso aos demais membros.
+   * Cadastrar as histórias do usuário na lista do quadro
+3. Cronograma
+
 #### Aula 05/07/16
 Product Backlog: <a href="https://docs.google.com/spreadsheets/d/1mT06z1S-aei-hQu_1uGNm1aIOUzECAcC6GJ-lC4Uiwk/edit?usp=sharing">Planilha</a><br />
 Atividade: Cada grupo deve entregar pelo menos 6 histórias do usuário com prioridade ALTA e MEDIA.
