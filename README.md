@@ -7,6 +7,16 @@ E-mail: francisco.junior@jaboatao.ifpe.edu.br
 <a href="README2.md">Página da Unidade 1</a>
 
 <h3>UNIDADE 2</h3>
+<pre>
+Quadros: 
+  * Geral: <a href="https://trello.com/b/uY4J7QOn/beleza-master">https://trello.com/b/uY4J7QOn/beleza-master</a>
+  * Equipe ALM e Suplementos: <a href="https://trello.com/b/nRvW78jY/faturamento">https://trello.com/b/nRvW78jY/faturamento</a>
+  * Equipe Evolution: <a href="https://trello.com/b/HqJBQvCT/project-evolution">https://trello.com/b/HqJBQvCT/project-evolution</a>
+</pre>
+
+#### Aula 19/07/16
+1. Sprint1 : 19/07/16 a 25/07/16
+  * Histórias: Cadastrar usuário e Cadastrar profissional
 
 #### Aula 08/07/16
 1. Prototipação de Interface: 
