@@ -14,6 +14,12 @@ Quadros:
   * Equipe Evolution: <a href="https://trello.com/b/HqJBQvCT/project-evolution">https://trello.com/b/HqJBQvCT/project-evolution</a>
 </pre>
 
+#### Utilização do Github/Eclipse
+* Resolvendo conflitos: https://www.youtube.com/watch?v=wko1HiHw74E
+* Instalação e importação do projeto: https://www.youtube.com/watch?v=ulDPDpdoCFA
+
+
+
 #### Aula 19/07/16
 1. Sprint1 : 19/07/16 a 25/07/16
   * Histórias: Cadastrar usuário e Cadastrar profissional
